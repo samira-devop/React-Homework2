@@ -1,0 +1,10 @@
+*{
+  background-color: yellow;
+}
+div {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  padding-top: 100px;
+}
